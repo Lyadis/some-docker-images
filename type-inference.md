@@ -1,4 +1,4 @@
-#Type-inference
+# Type-inference
 
 This image is merely a wrapper for [type-inference](https://github.com/proganalysis/type-inference)
 
